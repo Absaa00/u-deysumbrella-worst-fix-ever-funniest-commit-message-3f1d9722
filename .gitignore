@@ -1,0 +1,10 @@
+# Worst Fix Ever — local run artefacts only, never part of the entry
+/output/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+.DS_Store
+# scratch notes kept out of the submitted history
+notes.local.md
+scratch/
